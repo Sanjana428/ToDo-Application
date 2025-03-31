@@ -1,0 +1,10 @@
+{
+	"name": "To Do List",
+	"description": "You can add your tasks",
+	"version": "1.0",
+	"manifest_version": 3,
+	"action": {
+		"title": "To Do List",
+		"default_popup": "index.html"
+	}
+}

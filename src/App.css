@@ -1,0 +1,23 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+
+.complete{
+  text-decoration: line-through;
+  color: greenyellow;
+}
+button{
+  background-color: chartreuse;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 5px;
+}
+label{
+  font-weight: bolder;
+  margin: 30px;
+}
+input{
+  border-radius: 10px;
+}
